@@ -1,0 +1,9 @@
+albumentations==1.4.21
+matplotlib==3.10.0
+numpy==2.2.2
+pandas==2.2.3
+python-dotenv==1.0.1
+scikit_learn==1.6.1
+torch==2.5.1+cu118
+torchvision==0.20.1+cu118
+tqdm==4.67.0
