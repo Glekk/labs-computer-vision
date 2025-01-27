@@ -12,7 +12,7 @@ There are 4 labs in total written in Python using PyTorch:
 ## Installation
 To download the repository use the following command:
 ```
-git clone 
+git clone https://github.com/Glekk/labs-computer-vision.git
 ```
 
 All required libraries are listed in the requirements.txt file in each lab folder. You need to change the directory to the lab folder and run the following command:
